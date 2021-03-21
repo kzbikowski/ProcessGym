@@ -1,0 +1,69 @@
+[
+  {
+    "process_id": 1,
+    "resource_eligibility": [
+      {
+        "task_id": 0,
+        "eligible_resources": {
+          "1": 0.75,
+          "2": 2.8
+        }
+      },
+      {
+        "task_id": 1,
+        "eligible_resources": {
+          "0": 1.4,
+          "1": 0.3
+        }
+      },
+      {
+        "task_id": 2,
+        "eligible_resources": {
+          "0": 0.3,
+          "2": 2.7
+        }
+      },
+      {
+        "task_id": 3,
+        "eligible_resources": {
+          "1": 2.7,
+          "2": 0.1
+        }
+      }
+    ]
+  },
+  {
+    "process_id": 2,
+    "resource_eligibility": [
+      {
+        "task_id": 4,
+        "eligible_resources": {
+          "0": 0.6,
+          "1": 2.6
+        }
+      },
+      {
+        "task_id": 5,
+        "eligible_resources": {
+          "0": 0.4,
+          "2": 10.5
+        }
+      },
+      {
+        "task_id": 6,
+        "eligible_resources": {
+          "0": 1.1,
+          "2": 1.7
+        }
+      },
+      {
+        "task_id": 7,
+        "eligible_resources": {
+          "0": 0.4,
+          "1": 0.6,
+          "2": 2.5
+        }
+      }
+    ]
+  }
+]

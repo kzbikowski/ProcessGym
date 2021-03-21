@@ -1,0 +1,19 @@
+{
+  "process_case_probability": 0.95,
+  "queue_capacity_modifier": 100.0,
+  "available_resources":[
+    0, 1, 2
+  ],
+  "loaded_processes": [
+    {
+      "filename": "./conf/process_1.json",
+      "frequency": 20,
+      "reward": 1
+    },
+    {
+      "filename": "./conf/process_2.json",
+      "frequency": 120,
+      "reward": 1
+    }
+  ]
+}
